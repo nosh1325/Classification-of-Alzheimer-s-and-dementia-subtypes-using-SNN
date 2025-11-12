@@ -1,0 +1,1 @@
+# Classification-of-Alzheimer-s-and-dementia-subtypes-using-SNN
