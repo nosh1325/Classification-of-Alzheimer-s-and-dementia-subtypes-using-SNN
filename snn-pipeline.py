@@ -1,10 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-"""
-Converted from Jupyter Notebook: transfer-learning.ipynb
-Conversion Date: 2025-11-13T03:08:36.651Z
-"""
-
 !pip install snntorch
 
 import os
